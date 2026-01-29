@@ -1,0 +1,34 @@
+# Sign Language Detection - Dependencies
+# Install with: pip install -r requirements.txt
+# Compatible with Python 3.14+
+
+# Core ML/DL Libraries
+numpy>=1.24.0
+tensorflow>=2.16.0rc0
+tensorflow-macos>=2.16.0rc0
+keras>=3.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Hand Tracking
+mediapipe>=0.10.0
+
+# GUI
+tk>=0.1.0  # Built-in with Python, included for reference
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# Spell Checking
+pyenchant>=3.2.0
+
+# Utilities
+protobuf>=4.25.0
+cvzone>=1.5.6
+
+# Optional: Development dependencies
+# pytest>=7.0.0
+# black>=23.0.0
+
