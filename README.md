@@ -132,12 +132,25 @@ pip install -r requirements.txt
 ```
 
 ## License
-
-This project is open source and available under the MIT License.
+This project is shared for educational and learning purposes.
 
 ## Acknowledgments
 
 - MediaPipe for hand tracking
 - TensorFlow/Keras for the CNN model
 - OpenCV for image processing
+
+
+## ⚠️ Limitations
+- Currently supports a limited set of hand gestures.
+- Performance may vary depending on lighting conditions and system hardware.
+- Real-time prediction speed can be improved for lower-end devices.
+
+## 🔮 Future Enhancements
+- Optimize model inference speed using TensorFlow Lite.
+- Expand dataset to include more gestures and users.
+- Improve gesture stability to reduce misclassification.
+- Add sentence-level and word-level prediction.
+- Deploy as a mobile or web application.
+
 
